@@ -4,6 +4,7 @@ Raffaele Sperandeo
 Mauro Maldonato  
 Bruno Melo  
 Joao Ricardo Vissoci  
+Paolo Valerio  
 Ricardo Pietrobon  
 
 
