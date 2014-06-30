@@ -1,5 +1,9 @@
 # An educational parallel randomized controlled trial comparing training in gestalt psychotherapy with a response to narrative program vs. standard training and its effect on knowledge and clinical practice among healthcare professionals: A reproducible research protocol
 
+
+<!-- out of my shoes methodology -->
+
+
 Raffaele Sperandeo  
 Mauro Maldonato  
 Bruno Melo  
